@@ -1,7 +1,7 @@
 # borealis
 Borealis Linux is a Debian based distro with a custom made kernel forked from XanMod.
 
-Borealis Linux is a efficient, powerful, and stable operating system geared toward power users, developers, professionals, and creative types. As this distro is very much in the early development stages, we do not recommend running this baremetal. Please report any issues with this distribution to borealislinux@protonmail.com or jump in the irc channel, #borealis on Libre.Chat!
+Borealis Linux is a efficient, powerful, and stable operating system geared toward power users, developers, professionals, and creative types. As this distro is very much in the early development stages, we do not recommend running this baremetal. Please report any issues with this distribution to borealislinux@protonmail.com, create a issue on the GitHub page, or jump in the irc channel, #borealis on Libre.Chat!
 
 Borealis Linux is a collaborative project that was created to experiment with Linux distributions.
 
